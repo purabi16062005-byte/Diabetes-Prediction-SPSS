@@ -1,0 +1,23 @@
+# Diabetes Prediction using SPSS Modeler
+
+This project uses Logistic Regression to predict diabetes using the Pima Indians Diabetes Dataset.
+
+## Tools Used
+- IBM SPSS Modeler
+- Excel
+
+## Workflow
+1. Data Import
+2. Type Node
+3. Partition Node
+4. Select Node
+5. Logistic Regression
+6. Model Evaluation
+
+## Dataset Features
+- Pregnancies
+- Glucose
+- Blood Pressure
+- BMI
+- Age
+- Outcome
